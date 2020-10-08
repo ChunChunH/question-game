@@ -6,7 +6,7 @@
 body {
     width: 100vw;
     height: 100vh;
-    background-image: url("./img/background.jpg");
+    background-image: url("./Img/background.jpg");
     background-size: cover;
     background-color: #0099FF;
     background-repeat: no-repeat;
@@ -67,7 +67,7 @@ h1 span {
 .bodyquestions {
     width: 100vw;
     height: 100vh;
-    background-image: url("img/background2.jpg");
+    background-image: url("./Img/background2.jpg");
     background-size: cover;
     background-color: #0099FF;
     background-repeat: no-repeat;
